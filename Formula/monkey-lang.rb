@@ -1,8 +1,8 @@
 class MonkeyLang < Formula
   desc "monkey.rs in 2021 edition"
   homepage "https://github.com/meloalright/Monkey-Rust-2021-Edition"
-  url "https://github.com/meloalright/Monkey-Rust-2021-Edition/archive/refs/tags/0.1.0-mklang.tar.gz"
-  sha256 "a3ed5fe6df6473d4a78c757e22bf387681a690e940aff24830cae811427e1f0f"
+  url "https://github.com/meloalright/Monkey-Rust-2021-Edition/archive/refs/tags/0.2.0-mklang.tar.gz"
+  sha256 "ef7174f4f785c241ba0a448c43174333b0a3b47c3497b49668784e2c128eb00a"
   license "MIT"
   head "https://github.com/meloalright/Monkey-Rust-2021-Edition.git", branch: "main"
 
